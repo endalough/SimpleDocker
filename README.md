@@ -1,1 +1,1 @@
-# SimpleDocker
+# SimpleDocker - single app, very basic
